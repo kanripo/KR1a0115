@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易經通注
-#+DATE: 2015-09-23 09:35:19
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 21:58:27.253544
+#+PROPERTY: ID KR1a0115
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
 <pb:KR1a0115_WYG_010-1a>¶
 　　易經通注後序¶
 　　易之為書也有太極之理有儀象卦爻之用自剛柔¶
@@ -56,4 +58,3 @@
 　¶
 　¶
 　易經通注後序¶
-

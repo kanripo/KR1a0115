@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易經通注
-#+DATE: 2015-09-23 09:35:19
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:58:27.189967
+#+PROPERTY: ID KR1a0115
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1a0115_WYG_007-1a>¶
 欽定四庫全書¶
 　易經通注卷七　　　　大學士傅以漸¶
@@ -830,4 +832,3 @@
 　深究其所以然哉¶
 　　右第十二章¶
 　易經通注卷七¶
-
